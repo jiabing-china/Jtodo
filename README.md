@@ -1,10 +1,5 @@
 # Jtodo
----
-title: vue+webpack打造todo应用
-# autoPrev: README
-# autoNext: README
----
-# vue+webpack打造todo应用
+
 >  （PS：不含vue的脚手架，webpack版本是4.X，vue2.X）写在前面，我决定自己来写这个小demo，因为对着别人的东西做的时候，发生了各种问题，非常痛苦，当然，与工作不一样，我不需要赶时间，所以，我可以慢慢做，同时用各种方式，不用当生产线上的工人。
 
 新建文件vuetodo
