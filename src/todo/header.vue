@@ -1,0 +1,18 @@
+<template>
+  <header class="main-header">
+    <h1>Jtodo</h1>
+  </header>
+</template>
+
+<style lang="stylus" scoped>
+.main-header {
+  text-align: center;
+
+  h1 {
+    font-size: 100px;
+    color: rgba(47, 134, 175, 0.4);
+    font-weight: 400;
+    margin: 20px;
+  }
+}
+</style>
